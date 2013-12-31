@@ -1,0 +1,31 @@
+{
+  "name": "SpiritFight",
+  "version": "0.0.1",
+  "description": "Site da Equipe Spirit Fight de Jiu-Jitsu",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leocosta/spiritfight.git"
+  },
+  "keywords": [
+    "spirit",
+    "fight",
+    "jiu-jitsu"
+  ],
+  "author": "Leonardo Costa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leocosta/spiritfight/issues"
+  },
+  "homepage": "https://github.com/leocosta/spiritfight",
+  "dependencies": {
+    "logfmt": "~0.18.1",
+    "express": "~3.4.7"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }  
+}
